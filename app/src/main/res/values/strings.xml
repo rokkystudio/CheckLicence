@@ -1,3 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">CheckLicence</string>
+    <!-- Английский -->
+    <string name="license_buy_title">License verification failed</string>
+    <string name="license_buy_button" translatable="false">Google Play</string>
+    <string name="license_contact_button" translatable="false">WhatsApp</string>
+    <string name="license_exit_button">Exit</string>
+    <string name="license_buy_message">This application is not licensed, please contact the author via WhatsApp.</string>
 </resources>
+

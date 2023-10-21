@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Японский -->
+    <string name="license_buy_title">ライセンスの確認に失敗しました</string>
+    <string name="license_exit_button">出口</string>
+    <string name="license_buy_message">このアプリケーションはライセンスを取得していません。WhatsApp 経由で作者に連絡してください。</string>
+</resources>

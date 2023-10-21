@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Английский -->
+    <string name="license_buy_title">" 许可证验证失败"</string>
+    <string name="license_exit_button">出口</string>
+    <string name="license_buy_message">此应用程序未获得许可，请通过 WhatsApp 联系作者。</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Турецкий -->
+    <string name="license_buy_title">Lisans doğrulama başarısız oldu</string>
+    <string name="license_exit_button">Çıkış</string>
+    <string name="license_buy_message">Bu uygulama lisanslı değildir, lütfen yazarla WhatsApp aracılığıyla iletişime geçin.</string>
+</resources>

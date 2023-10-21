@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Русский -->
+    <string name="license_buy_title">Ошибка проверки лицензии</string>
+    <string name="license_exit_button">Выход</string>
+    <string name="license_buy_message">Это приложение не лицензировано, свяжитесь с автором через WhatsApp.</string>
+</resources>

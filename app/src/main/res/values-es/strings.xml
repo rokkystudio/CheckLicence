@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Испанский -->
+    <string name="license_buy_title">Fallo en la verificación de licencia</string>
+    <string name="license_exit_button">Salida</string>
+    <string name="license_buy_message">Esta aplicación no tiene licencia, comuníquese con el autor a través de WhatsApp.</string>
+</resources>

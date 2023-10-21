@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Шведский -->
+    <string name="license_buy_title">"Licens verifiering misslyckades"</string>
+    <string name="license_exit_button">Utgång</string>
+    <string name="license_buy_message">Denna applikation är inte licensierad, kontakta författaren via WhatsApp.</string>
+</resources>

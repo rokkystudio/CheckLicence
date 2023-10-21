@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Греческий -->
+    <string name="license_buy_title">Η επαλήθευση άδειας απέτυχε</string>
+    <string name="license_exit_button">Εξοδος</string>
+    <string name="license_buy_message">Αυτή η εφαρμογή δεν έχει άδεια χρήσης, επικοινωνήστε με τον συγγραφέα μέσω WhatsApp.</string>
+</resources>

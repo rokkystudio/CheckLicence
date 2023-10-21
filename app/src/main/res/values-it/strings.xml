@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Итальянский -->
+    <string name="license_buy_title">Verifica della licenza fallita</string>
+    <string name="license_exit_button">Uscita</string>
+    <string name="license_buy_message">Questa applicazione non è concessa in licenza, contatta l\'autore tramite WhatsApp.</string>
+</resources>

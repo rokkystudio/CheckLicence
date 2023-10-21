@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Корейский -->
+    <string name="license_buy_title">라이센스 확인에 실패했습니다</string>
+    <string name="license_exit_button">출구</string>
+    <string name="license_buy_message">이 애플리케이션은 라이센스가 없습니다. WhatsApp을 통해 작성자에게 문의하세요.</string>
+</resources>

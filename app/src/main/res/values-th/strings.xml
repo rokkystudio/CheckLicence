@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Тайский -->
+    <string name="license_buy_title">การตรวจสอบใบอนุญาตล้มเหลว</string>
+    <string name="license_exit_button">ทางออก</string>
+    <string name="license_buy_message">แอปพลิเคชันนี้ไม่ได้รับอนุญาต โปรดติดต่อผู้เขียนผ่าน WhatsApp</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Французский -->
+    <string name="license_buy_title">"La vérification de la licence a échoué"</string>
+    <string name="license_exit_button">Sortie</string>
+    <string name="license_buy_message">Cette application n\'est pas sous licence, veuillez contacter l\'auteur via WhatsApp.</string>
+</resources>

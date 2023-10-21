@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Немецкий -->
+    <string name="license_buy_title">Lizenzprüfung fehlgeschlagen</string>
+    <string name="license_exit_button">Ausgang</string>
+    <string name="license_buy_message">Diese Anwendung ist nicht lizenziert. Bitte kontaktieren Sie den Autor über WhatsApp.</string>
+</resources>
