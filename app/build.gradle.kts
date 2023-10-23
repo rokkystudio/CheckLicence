@@ -1,6 +1,10 @@
 plugins {
     id("com.android.library")
+    id("maven-publish")
 }
+
+group = "com.rokkystudio.checklicence"
+version = "0.1"
 
 android {
     namespace = "com.rokkystudio.checklicence"
@@ -9,7 +13,6 @@ android {
     defaultConfig {
         minSdk = 21
     }
-
 
     buildTypes {
         release {
@@ -20,12 +23,20 @@ android {
             )
         }
     }
-    compileOptions {
 
-        sourceCompatibility = JavaVersion.VERSION_11
-        targetCompatibility = JavaVersion.VERSION_11
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
     }
+
     buildToolsVersion = "34.0.0"
+
+    publishing {
+        singleVariant("release") {
+            withSourcesJar()
+            withJavadocJar()
+        }
+    }
 }
 
 dependencies {
