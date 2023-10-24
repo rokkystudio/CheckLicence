@@ -3,9 +3,6 @@ plugins {
     id("maven-publish")
 }
 
-group = "com.rokkystudio.checklicence"
-version = "0.1"
-
 android {
     namespace = "com.rokkystudio.checklicence"
     compileSdk = 34
@@ -32,9 +29,19 @@ android {
     buildToolsVersion = "34.0.0"
 
     publishing {
-        singleVariant("release") {
-            withSourcesJar()
-            withJavadocJar()
+        singleVariant("release")
+    }
+}
+
+afterEvaluate {
+    publishing {
+        publications {
+            create<MavenPublication>("release") {
+                groupId = "com.github.rokkystudio"
+                artifactId = "checklicence"
+                version = "0.1.2"
+                from(components["release"])
+            }
         }
     }
 }
